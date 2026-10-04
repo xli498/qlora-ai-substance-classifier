@@ -1,0 +1,4 @@
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+样本数: 300（未知/拒答: 0）
+准确率: 0.6933  精确率: 0.6883  召回率: 0.7067  F1: 0.6974
+TP=106 FP=48 FN=44 TN=102
