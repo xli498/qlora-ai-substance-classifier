@@ -1,5 +1,13 @@
 # QLoRA 年报 AI 实质性识别
 
+<p align="center">
+  <a href="docs/demo-20s.mp4">
+    <img src="docs/demo-preview.gif" alt="点击观看 20 秒演示视频" width="640">
+  </a>
+</p>
+
+<p align="center">🎬 <a href="docs/demo-20s.mp4"><b>观看 20 秒演示视频</b></a> ｜ 金融 AI 落地：年报 AI 实质性识别打分演示（1–5 分实质性口径）</p>
+
 把大模型对 A 股年报的「AI 应用实质性」打分，蒸馏到可在单张消费级 GPU 上运行的小模型：用 QLoRA 微调 Qwen2.5-1.5B / 3B 做二分类（实质 / 非实质），并系统对照数据量、训练轮次、LoRA 秩与模型尺寸四个维度的影响。
 
 ## 任务与数据
